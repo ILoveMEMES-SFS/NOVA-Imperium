@@ -22,6 +22,7 @@
 | Rusden Nowers | NOVA SBJ Captain|
 | Betty Hafen | SBJ Copilot; SLJ Captain |
 | Daniel Voss | CSBJ 2.5 Copilot; SLJ Copilot|
+| Adrian Mercer | VSLJ 2 Astronaut |
 
 ## News Organizations and Reporters
 
